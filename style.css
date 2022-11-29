@@ -74,7 +74,7 @@ body{
   }
 
   #p1 {
-  
+     color:dimgray;
       font-family: 'Source Sans Pro', sans-serif;
       width: 100%;
       text-align: left;
@@ -136,7 +136,7 @@ body{
   font-family: 'Source Sans Pro', sans-serif;
   margin-right: 40px;
   font-size: 15px;
-  
+  color: dimgray;
   overflow: hidden;
   position: relative;
   
@@ -153,7 +153,8 @@ body{
       width: 400px;
       font-family: 'Source Sans Pro', sans-serif;
       font-size: 15px;
-      height: auto;        
+      height: auto;  
+      color: dimgray;      
   }
   
   #pictureThree{
